@@ -28,32 +28,4 @@ background: url('caminho-da-imagem.jpg') no-repeat center center fixed;
 background-size: cover;
 # QUIZ
 
-▶️ Como Executar
-Clone ou baixe o repositório
 
-Abra a pasta do projeto no Visual Studio Code
-
-Abra o arquivo index.html em seu navegador:
-
-Opções:
-Com a extensão Live Server no VS Code → clique com o botão direito e selecione Abrir com Live Server
-
-Ou clique duas vezes no index.html para abrir no navegador
-
-📁 Estrutura do Projeto
-pgsql
-Copiar
-Editar
-quiz-interativo/
-├── index.html
-├── fundo.jpg (opcional)
-🧠 Exemplo de Perguntas
-Qual das seguintes linguagens é usada para estilizar páginas web?
-
-Qual é a linguagem principal para estruturação da web?
-
-Qual API permite manipular elementos HTML com JavaScript?
-
-📢 Créditos
-Criado como exercício para iniciantes em Desenvolvimento Web.
-Inclui som gratuito retirado de: soundjay.com
